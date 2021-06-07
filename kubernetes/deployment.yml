@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: gateway
-          image: 654789606772.dkr.ecr.ap-northeast-2.amazonaws.com/user05-gateway:v1
+          image: 654789606772.dkr.ecr.ap-northeast-2.amazonaws.com/user03-gateway:v1
           ports:
             - containerPort: 8080
